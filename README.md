@@ -1,5 +1,5 @@
 # Statistical_Learning
- 2023학년도 봄학기 서울시립대학교 통계학과 '기계학습및실습' 최연진 교수님의 강의를 정리해놓은 공간입니다.
+ 2023학년도 봄학기 서울시립대학교 통계학과에서 진행된 '기계학습및실습' 최연진 교수님의 실습 강의를 정리해놓은 공간입니다.
 
 ### 수업목표
 - 다양한 기계학습 방법의 원리 이해 (Understanding the mechanisms of various machine learning methods) 
