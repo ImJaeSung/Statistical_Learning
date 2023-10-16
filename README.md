@@ -7,6 +7,9 @@
 - 실제 데이터에 적절한 기계학습 방법의 적용 (Building sounds skills in machine learning)
 
 ### 교재
-- An Introduction to Statistical Learning: with applications in R G. James, D. Witten, T. Hastie, and R. Tibshirani, Springer. ![image](https://github.com/ImJaeSung/Statistical_Learning/assets/113405066/70c71250-62fe-4fa6-b158-c59908b37589)
+- An Introduction to Statistical Learning: with applications in R G. James, D. Witten, T. Hastie, and R. Tibshirani, Springer.
+
+
+![image](https://github.com/ImJaeSung/Statistical_Learning/assets/113405066/70c71250-62fe-4fa6-b158-c59908b37589)
 
   
